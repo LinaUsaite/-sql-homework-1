@@ -25,4 +25,4 @@ SQL užduotys su Northwind duomenų baze
 
 ## Autorius
 Lina Ūsaitė
-👉 [Peržiūrėti SQL failą](https://github.com/LinaUsaite/sql-homework-1/blob/main/employees_praktinis.sql)
+👉 [Peržiūrėti SQL failą](https://github.com/LinaUsaite/-sql-homework-1/blob/main/employees_praktinis%20(1)Lina_Usaite.sql)
